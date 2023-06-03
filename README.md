@@ -4,7 +4,7 @@
 
 Just a simple csgo Internal made by me.
 
-Join the stayfried Discord!
+**Join the stayfried Discord!**
 https://discord.gg/MJ4pnyxae8
 
 # How to Use
